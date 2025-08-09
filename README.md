@@ -1,22 +1,66 @@
-# AI Engineer Journey
+# 🚀 AI Engineer Journey
 
-A structured 6-month roadmap and projects to master AI engineering skills, from ML basics to deployment and interview prep.
+A structured **6-month roadmap** to become AI-engineer ready — including **ML/DL mastery**, **production-grade projects**, **MLOps skills**, and **interview preparation**.  
+This repository documents my progress through each phase, with code, notes, and deliverables.
 
-## Roadmap
+---
 
-- [Phase 1: AI Core & Deep Learning Mastery](./Phase_1_AI_Core_Deep_Learning_Mastery)
-- [Phase 2: Applied AI Projects](./Phase_2_Applied_AI_Projects)
-- [Phase 3: MLOps & Scaling](./Phase_3_MLOps_Scaling)
-- [Phase 4: Interview Preparation](./Phase_4_Interview_Prep)
+## 📅 Roadmap Overview
 
-## How to Get Started
+### **Phase 1 — AI Core & Deep Learning Mastery (Weeks 1–6)**
+**Goal:** Be fluent in modern ML & DL, including Transformers.
 
-Explore the phases above in order. Each contains projects, notes, and code.
+**What to Learn:**
+- **ML Refresh** (1–2 weeks)
+  - Supervised, unsupervised, and reinforcement learning.
+  - Algorithms: Linear Regression, Logistic Regression, Decision Trees, Gradient Boosting.
+  - Tooling: scikit-learn, pandas, NumPy.
+- **Deep Learning Foundations** (Weeks 2–6)
+  - PyTorch: tensors, autograd, `torch.nn`, optimizers.
+  - CNNs, RNN/LSTM, Transformers.
+  - Attention, positional encoding, transfer learning.
 
-## Contact
+**Deliverables by Week 6:**
+- CNN, LSTM, and Transformer implemented from scratch in PyTorch.
+- Kaggle competition entry (image or text classification).
 
-Owen Moloney — [LinkedIn](https://linkedin.com/in/owenmoloney) | omoloney@fordham.edu
+---
 
-## License
+### **Phase 2 — Applied AI Projects (Weeks 7–14)**
+**Goal:** Build 2–3 **portfolio-ready projects**.
 
-MIT License
+**Projects:**
+1. **NLP Chatbot with GPT API**
+   - Fine-tune on custom dataset.
+   - Deploy with FastAPI + Docker on AWS/GCP.
+2. **AI for Time-Series Forecasting**
+   - LSTM vs Transformer on stock/crypto/housing data.
+   - Live inference API.
+3. *(Optional)* **Computer Vision Pipeline**
+   - Object detection with YOLOv8 or custom CNN.
+
+---
+
+### **Phase 3 — MLOps & Scaling (Weeks 15–20)**
+**Goal:** End-to-end deployment skills.
+
+- Docker, Kubernetes basics.
+- Model serving with FastAPI/TorchServe.
+- CI/CD for ML (GitHub Actions, AWS Sagemaker).
+- Data pipelines with Airflow/Kafka.
+- SQL + NoSQL databases.
+
+---
+
+### **Phase 4 — AI Engineer Interview Prep (Weeks 21–24)**
+**Goal:** Be job-ready for AI/ML Engineer roles.
+
+- ML theory review: bias/variance, regularization, optimization.
+- System design for ML.
+- LeetCode medium/hard problems.
+- Mock technical interviews.
+
+---
+
+## 📂 Repository Structure
+
