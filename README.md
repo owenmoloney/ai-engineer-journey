@@ -5,6 +5,16 @@ This repository documents my progress through each phase, with code, notes, and 
 
 ---
 
+## Table of Contents
+
+1. [ML Fundamentals](./ML_Fundamentals)
+2. [Convolutional Neural Networks](./Convolutional_Neural_Networks)
+3. [PyTorch](./PyTorch)
+4. [Sequence Models](./Sequence_Models)
+5. [Transformers & Attention](./Transformers_Attention)
+
+
+---
 ## 📅 Roadmap Overview
 
 ### **Phase 1 — AI Core & Deep Learning Mastery (Weeks 1–6)**
