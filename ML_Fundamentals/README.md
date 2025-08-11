@@ -70,20 +70,15 @@ Day 6: Clustering (k-means) & Dimensionality Reduction (PCA)                    
 Day 7: Model Evaluation: Accuracy, Precision, Recall, F1, ROC-AUC, Bias–Variance             Write a notebook showing metric comparisons on one dataset
 
 
-How to Use This Folder
-Each day’s folder/script contains code and exercises for that day’s topic.
-
-You can find supplementary YouTube videos linked inside this README for deeper explanations.
-
-Run code scripts or notebooks to explore and understand ML concepts hands-on.
-
-Use the provided tasks to reinforce theory through practice.
+How do I use This Folder?
+    -Each day’s folder/script contains code and exercises for that day’s topic.
+    -You can find supplementary YouTube videos linked inside this README for deeper explanations.
+    -Run code scripts or notebooks to explore and understand ML concepts hands-on.
+    -Use the provided tasks to reinforce theory through practice.
 
 Additional Notes
-This week focuses on refreshing core ML concepts before moving on to deep learning.
-
-Make sure to review all metrics and understand their tradeoffs, especially bias vs. variance.
-
-Experiment with hyperparameters in tree-based and boosting methods to see effects on accuracy and overfitting.
+    -This week focuses on refreshing core ML concepts before moving on to deep learning.
+    -Make sure to review all metrics and understand their tradeoffs, especially bias vs. variance.
+    -Experiment with hyperparameters in tree-based and boosting methods to see effects on accuracy and overfitting.
 
 Happy Learning! 🚀
