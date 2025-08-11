@@ -55,19 +55,19 @@ Model evaluation metrics and bias-variance tradeoff
                                                             Week 1 — ML Fundamentals Refresh 
                                           Goal: Refresh all key ML concepts & terminology before deep learning.
 Day                                Topic                                                             Hands-on Task
-Day 1: Intro to Machine Learning: Supervised vs. Unsupervised vs. Reinforcement Learning |    Write a short .md file explaining each type with examples
-                                                                                         |
-Day 2: Linear Regression (Theory + scikit-learn Implementation)                          |    Implement simple linear regression on synthetic data
-                                                                                         |
-Day 3: Logistic Regression (Binary Classification)                                       |    Build a spam vs. ham classifier on a text dataset
-                                                                                         |
-Day 4: Decision Trees & Random Forests                                                   |    Train both on the Titanic dataset, compare results
-                                                                                         |
-Day 5: Gradient Boosting (XGBoost / LightGBM)                                            |    Build a gradient boosting model on a classification dataset
-                                                                                         |
-Day 6: Clustering (k-means) & Dimensionality Reduction (PCA)                             |    Cluster MNIST digits & visualize with PCA
-                                                                                         |
-Day 7: Model Evaluation: Accuracy, Precision, Recall, F1, ROC-AUC, Bias–Variance         |    Write a notebook showing metric comparisons on one dataset
+Day 1: Intro to Machine Learning: Supervised vs. Unsupervised vs. Reinforcement Learning     Write a short .md file explaining each type with examples
+                                                                                         
+Day 2: Linear Regression (Theory + scikit-learn Implementation)                              Implement simple linear regression on synthetic data
+                                                                                         
+Day 3: Logistic Regression (Binary Classification)                                           Build a spam vs. ham classifier on a text dataset
+                                                                                         
+Day 4: Decision Trees & Random Forests                                                       Train both on the Titanic dataset, compare results
+                                                                                         
+Day 5: Gradient Boosting (XGBoost / LightGBM)                                                Build a gradient boosting model on a classification dataset
+                                                                                         
+Day 6: Clustering (k-means) & Dimensionality Reduction (PCA)                                 Cluster MNIST digits & visualize with PCA
+                                                                                         
+Day 7: Model Evaluation: Accuracy, Precision, Recall, F1, ROC-AUC, Bias–Variance             Write a notebook showing metric comparisons on one dataset
 
 
 How to Use This Folder
