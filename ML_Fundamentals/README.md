@@ -71,10 +71,10 @@ Day 7: Model Evaluation: Accuracy, Precision, Recall, F1, ROC-AUC, Bias–Varian
 
 
     How to use this Folder:
-    1)Each day’s folder/script contains code and exercises for that day’s topic.
-    2)You can find supplementary YouTube videos linked inside this README for deeper explanations.
-    3)Run code scripts or notebooks to explore and understand ML concepts hands-on.
-    4)Use the provided tasks to reinforce theory through practice.
+        1) Each day’s folder/script contains code and exercises for that day’s topic.
+        2) You can find supplementary YouTube videos linked inside this README for deeper explanations.
+        3) Run code scripts or notebooks to explore and understand ML concepts hands-on.
+        4) Use the provided tasks to reinforce theory through practice.
 
     Additional Notes:
     1)This week focuses on refreshing core ML concepts before moving on to deep learning.
