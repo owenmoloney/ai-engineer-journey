@@ -52,8 +52,8 @@ Model evaluation metrics and bias-variance tradeoff
     1) Evaluation Metrics & Confusion Matrix: https://www.youtube.com/watch?v=Kdsp6soqA7o
     2) Bias & Variance Fundamentals: https://www.youtube.com/watch?v=EuBBz3bI-aA
 
-                                                            Week 1 — ML Fundamentals Refresh 
-                                          Goal: Refresh all key ML concepts & terminology before deep learning.
+Week 1 — ML Fundamentals Refresh 
+Goal: Refresh all key ML concepts & terminology before deep learning.
 Day                                Topic                                                             Hands-on Task
 Day 1: Intro to Machine Learning: Supervised vs. Unsupervised vs. Reinforcement Learning     Write a short .md file explaining each type with examples
                                                                                          
