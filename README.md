@@ -1,6 +1,6 @@
 # 🚀 AI Engineer Journey
 
-A structured **6-month roadmap** to become AI-engineer ready — including **ML/DL mastery**, **production-grade projects**, **MLOps skills**, and **interview preparation**.  
+A structured **roadmap** to become AI-engineer ready — including **ML/DL mastery**, **production-grade projects**, **MLOps skills**, and **interview preparation**.  
 This repository documents my progress through each phase, with code, notes, and deliverables.
 
 ---
